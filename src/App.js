@@ -4,6 +4,7 @@ function App() {
   return (
     <div>
       <Confetti />
+      <h1>Welcome to the Gold Grid Team</h1>
     </div>
   );
 }
